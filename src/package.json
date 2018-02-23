@@ -1,0 +1,15 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "A simple react component with Redux.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/821oq1znqj",
+  "main": "index.js",
+  "dependencies": {
+    "redux-logger": "3.0.6",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
